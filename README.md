@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samiya</h1>
+<h1 align="center">Hi 👋, I'm Anika Tabasum Samiya</h1>
 <h3 align="center">I'm a student of BUBT</h3>
 
 - 🌱 I’m currently learning **C++**
@@ -6,7 +6,7 @@
 - 📫 How to reach me **anikatabasssum72642@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<h1 align="center">Hi 👋, I'm Anika Tabasum Samiya</h1>
+
 <h3 align="center">I'm a student of BUBT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiya-241&label=Profile%20views&color=0e75b6&style=flat" alt="samiya-241" /> </p>
